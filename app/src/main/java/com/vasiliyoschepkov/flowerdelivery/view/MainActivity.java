@@ -1,7 +1,9 @@
-package com.vasiliyoschepkov.flowerdelivery;
+package com.vasiliyoschepkov.flowerdelivery.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.vasiliyoschepkov.flowerdelivery.R;
 
 public class MainActivity extends AppCompatActivity {
 
